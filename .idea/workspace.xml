@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbe59402-aa15-42d1-8e82-8fe59ebc0d64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/Access_Physical_Memory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.paging_lowmem.ko.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.paging_lowmem.ko.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.paging_lowmem.mod.o.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.paging_lowmem.mod.o.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.paging_lowmem.o.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.paging_lowmem.o.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.tmp_versions/paging_lowmem.mod" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/.tmp_versions/paging_lowmem.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/modules.order" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/modules.order" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.ko" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.ko" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.mod.c" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.mod.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.mod.o" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.mod.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.o" beforeDir="false" afterPath="$PROJECT_DIR$/《Linux内核分析与应用》动手实践源码/2.4动手实践-把虚拟地址转换成物理地址/paging_lowmem/paging_lowmem.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_CONNMARK.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_CONNMARK.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_DSCP.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_DSCP.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_MARK.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_MARK.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_RATEEST.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_RATEEST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_TCPMSS.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter/xt_TCPMSS.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter_ipv4/ipt_ECN.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter_ipv4/ipt_ECN.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter_ipv4/ipt_TTL.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter_ipv4/ipt_TTL.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter_ipv6/ip6t_HL.h" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/include/uapi/linux/netfilter_ipv6/ip6t_HL.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/net/netfilter/xt_DSCP.c" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/net/netfilter/xt_DSCP.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/net/netfilter/xt_HL.c" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/net/netfilter/xt_HL.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/net/netfilter/xt_RATEEST.c" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/net/netfilter/xt_RATEEST.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验源码/net/netfilter/xt_TCPMSS.c" beforeDir="false" afterPath="$PROJECT_DIR$/实验源码/net/netfilter/xt_TCPMSS.c" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/linuxmooc.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S32dCs4nHxWvbMm4NX5c1ith20" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe59402-aa15-42d1-8e82-8fe59ebc0d64" name="Default Changelist" comment="" />
+      <created>1570778043714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570778043714</updated>
+      <workItem from="1570778044813" duration="2153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
